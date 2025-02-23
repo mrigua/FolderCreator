@@ -19,10 +19,7 @@ FolderCreator is a standalone Windows executable (created with Python and Tkinte
 *   **Clean and Intuitive GUI:** Easy-to-use interface.
 *   **Dark Mode:** A visually appealing dark theme for comfortable use.
 
-## Screenshots
 
-
-![Alt text]([[https://github.com/mrigua/FolderCreator/Screenshot.png](https://github.com/mrigua/FolderCreator/blob/main/Screenshot.png)])
 
 ## Installation
 

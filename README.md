@@ -22,6 +22,7 @@ FolderCreator is a standalone Windows executable (created with Python and Tkinte
 ## Screenshots
 
 
+![Alt text]([https://github.com/mrigua/FolderCreator/Screenshot.png])
 
 ## Installation
 

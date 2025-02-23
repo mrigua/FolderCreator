@@ -1,5 +1,6 @@
 # FolderCreator
 ![Screenshot](https://github.com/user-attachments/assets/72629ba9-1cd1-4b06-bf69-b53911a14761)
+
 A simple GUI application for quickly creating standardized folder structures for 3D art projects, saving you time and keeping your projects organized.
 
 ## Description

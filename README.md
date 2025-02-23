@@ -21,7 +21,7 @@ FolderCreator is a standalone Windows executable (created with Python and Tkinte
 
 ## Screenshots
 
-*(Add screenshots of your application here!)*
+
 
 ## Installation
 
